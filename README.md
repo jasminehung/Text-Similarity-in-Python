@@ -11,3 +11,13 @@
 | FuzzyWuzzy.partial_ratio    | 若一字串全部包含在另一字串中，則=100                       |                                   |
 | FuzzyWuzzy.token_sort_ratio | 與Levenshtein Ratio 類似                                   | 忽略單辭順序 對標點符號敏感       |
 | FuzzyWuzzy.token_set_ratio  |                                                            |                                   |
+
+
+
+https://github.com/contr4l/SimilarCharactor
+
+https://github.com/EasyIME/PIME/issues/64
+
+https://github.com/YahooArchive/KeyKey/blob/master/YahooKeyKey-Source-1.1.2528/DataTables/cj-ext.cin
+
+https://www.logcg.com/zh-tw/archives/3211.html
