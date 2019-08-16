@@ -12,6 +12,17 @@
 | FuzzyWuzzy.token_sort_ratio | 與Levenshtein Ratio 類似                                   | 忽略單辭順序 對標點符號敏感       |
 | FuzzyWuzzy.token_set_ratio  |                                                            |                                   |
 
+***
+## Requirements
+
+***
+## USAGE
+
+
+
+```chinese_sim.ratio("name1", "name2")``` 
+
+```chinese_sim.ratio("name1", "name2")``` 
 
 
 https://github.com/contr4l/SimilarCharactor
