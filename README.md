@@ -15,14 +15,18 @@
 ***
 ## Requirements
 
+import Levenshtein  #pip install python-Levenshtein
+
+import opencc
+
 ***
 ## USAGE
 
 
 
-```chinese_sim.ratio("name1", "name2")``` 
+```chinese_similarity("name1", "name2", replace_variants = True, convert_to_tradition = True)``` 
 
-```chinese_sim.ratio("name1", "name2")``` 
+
 
 
 https://github.com/contr4l/SimilarCharactor
