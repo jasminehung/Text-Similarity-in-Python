@@ -43,4 +43,9 @@ https://www.logcg.com/zh-tw/archives/3211.html
 
 
 
+create python package
+https://python-packaging.readthedocs.io/en/latest/minimal.html
+
+https://packaging.python.org/tutorials/packaging-projects/
+
 
