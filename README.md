@@ -22,7 +22,7 @@ import opencc
 ***
 ## USAGE
 
-```chinese_similarity("name1", "name2", replace_variants = True, convert_to_tradition = True)``` 
+```chinese_similarity("name1", "name2", replace_variants = True, convert_to_tradition = True, family name = True)``` 
 
 
 ```chinese_similarity.custom("name1", "name2", replace_variants = 0.8, convert_to_tradition = 0.8)``` 
