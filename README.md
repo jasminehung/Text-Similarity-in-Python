@@ -1,10 +1,13 @@
+# chinese_name_similarity
+
+
 # Text-Similarity-in-Python
 
 
 | Function                    | 計算方式                                                   | 備註                              |
 |-----------------------------|------------------------------------------------------------|-----------------------------------|
 | Levenshtein.Ratio           | r = (sum - ldist) / sum                                    |                                   |
-| Levenshtein Distance        | 由一個字串轉為另一字串的最少操作次數，包含插入、刪除、替換 |                                   |
+| Levenshtein.Distance        | 由一個字串轉為另一字串的最少操作次數，包含插入、刪除、替換 |                                   |
 | Levenshtein.Hamming         | 兩個等長字串之間對應位置上不同字符的個數                   | 兩字串需相等                      |
 | Levenshtein.jaro            |                                                            | 原用途為 人口普查 姓名比對        |
 | Levenshtein.jaro_winkler    |                                                            | 起始部分就相同的字串 給更高的分數 |
