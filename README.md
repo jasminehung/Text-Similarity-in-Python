@@ -60,4 +60,8 @@ https://python-packaging.readthedocs.io/en/latest/minimal.html
 
 https://packaging.python.org/tutorials/packaging-projects/
 
+https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56  !!!
+ 
+https://help.github.com/en/articles/licensing-a-repository Licensing a repository
 
+https://help.github.com/en/articles/creating-releases Creating releases
