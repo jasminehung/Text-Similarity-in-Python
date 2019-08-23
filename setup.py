@@ -10,5 +10,7 @@ setup(name='chinese_name_similarity',
       license='MIT',
       packages=['chinese_name_similarity'],
       keywords = ['CHINESE', 'NAME', 'SIMILARITY'],   
-      install_requires=['python-Levenshtein','opencc-python-reimplemented'],
+      install_requires=['python-Levenshtein',
+                        'opencc-python-reimplemented',
+                       ],
       zip_safe=False)
