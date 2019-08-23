@@ -11,11 +11,13 @@ Calculating the similarity between Chinese names.
 ***
 ## Usage
 
+### Basic
 ```chinese_name_similarity("name1", "name2")```
 
-```chinese_name_similarity("name1", "name2", replace_variants = True, convert_to_tradition = True, family name = True)``` 
+### Advance
+```chinese_name_similarity("name1", "name2", replace_variants = True, convert = 's2c, family name = True, replace_variants = 0.8, convert_to_tradition = 0.8)``` 
 
-```chinese_name_similarity.custom("name1", "name2", replace_variants = 0.8, convert_to_tradition = 0.8)``` 
+
 
 ## Example Case
 <img src="https://github.com/jasminehung/chinese_name_similarity/blob/master/testcase.JPG" alt="drawing" width="600"/>
