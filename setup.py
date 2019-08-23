@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='funniest',
+setup(name='chinese_name_similarity',
       version='0.1',
-      description='The funniest joke in the world',
-      url='http://github.com/storborg/funniest',
-      author='Flying Circus',
-      author_email='flyingcircus@example.com',
+      description='Calculate similarity between chinese names',
+      url='http://github.com/jasminehung/chinese_name_similarity', 
+      author='Jasmine Hung',
+      author_email='jasmine_sg27@yahoo.com.tw',
       license='MIT',
-      packages=['funniest'],
+      packages=['chinese_name_similarity'],
       zip_safe=False)
