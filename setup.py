@@ -1,8 +1,11 @@
 from setuptools import setup
+import os
+import sys
 
 setup(name='chinese_name_similarity',
       version='0.1',
       description='Calculate similarity between chinese names',
+      long_description= _open("README.md").read(),
       url='http://github.com/jasminehung/chinese_name_similarity', 
       download_url = 'https://github.com/jasminehung/chinese_name_similarity/archive/v0.1-beta.tar.gz',  
       author='Jasmine Hung',
