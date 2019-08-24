@@ -1,11 +1,13 @@
-from setuptools import setup
-import os
-import sys
+from setuptools import setup, Extension
 
+with open('README.md', encoding='utf-8') as f:
+    long_description = f.read()
+    
 setup(name='chinese_name_similarity',
-      version='0.1',
+      version='0.3',
       description='Calculate similarity between chinese names',
-      long_description= _open("README.md").read(),
+      long_description_content_type='text/markdown',
+      long_description=long_description,
       url='http://github.com/jasminehung/chinese_name_similarity', 
       download_url = 'https://github.com/jasminehung/chinese_name_similarity/archive/v0.1-beta.tar.gz',  
       author='Jasmine Hung',
